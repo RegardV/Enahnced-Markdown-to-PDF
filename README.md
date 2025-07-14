@@ -37,7 +37,8 @@ Transforms your Markdown files into professional PDFs with:
 
 ## 🚀 Quick Start
 
-###Once the framework is installed just drop the enhanced_converter.sh in the project root chmod +x it and run it. Drop a .md in the project root and a pdf file will be built and saved in the PDF folder. 
+## KEY
+### Once the framework is installed just drop the enhanced_converter.sh in the project root chmod +x it and run it. Drop a .md in the project root and a pdf file will be built and saved in the PDF folder. 
 See structure below. 
 
 ### Prerequisites (Ubuntu/Debian)
