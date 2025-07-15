@@ -39,6 +39,8 @@ Transforms your Markdown files into professional PDFs with:
 
 ## KEY
 ### Once the framework is installed just drop the enhanced_converter.sh in the project root chmod +x it and run it. Drop a .md in the project root and a pdf file will be built and saved in the PDF folder. 
+## The simple_yaml_prep.sh gives you the ability to easily edit and modif and add yaml matter that is required for the title page, delete the color varaibles in the main enhancer file and define it through this process to have the ability to change the title page variables with ease. no image support at present. 
+
 See structure below. 
 
 ### Prerequisites (Ubuntu/Debian)
